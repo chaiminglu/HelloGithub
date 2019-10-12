@@ -1,0 +1,14 @@
+package com.chaiminglu.helloworld;
+
+//Author: chaiminglu
+//Date: 2019-10-12 17:19:09
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		
+		System.out.print("Hello World!");
+
+	}
+
+}
